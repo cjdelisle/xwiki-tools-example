@@ -1,0 +1,4 @@
+{{info}}This page was built using xwiki-tools, welcome to the future!{{/info}}
+
+If you have js enabled you should see a message here:
+{{id name="xwiki-tools-example-div" /}}
