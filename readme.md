@@ -1,5 +1,7 @@
 # XWiki Tools Example
 
+[![XWiki labs logo](https://raw.githubusercontent.com/xwiki-labs/xwiki-labs-logo/master/projects/xwikilabs/xlabs-project.png "XWiki labs")](https://labs.xwiki.com/xwiki/bin/view/Main/WebHome)
+
 This example makes a small package with one XWiki document in it.
 To learn about how it is built, look at `make.js`
 `https://github.com/cjdelisle/xwiki-tools-example/blob/master/src/make.js`
